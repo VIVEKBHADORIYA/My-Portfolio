@@ -10,7 +10,7 @@ It serves as a central place where recruiters, developers, and collaborators can
 ## ✨ Features
 
 - 🎨 **Modern UI/UX** with TailwindCSS  
-- 📱 Fully **responsive** (mobile, tablet, desktop)  
+- 📱 Fully **responsive**   
 - ⚡ Built with **TypeScript** for reliability  
 - 📂 Projects showcase with live links & GitHub repos  
 - 📑 Downloadable **resume** button  
@@ -20,10 +20,11 @@ It serves as a central place where recruiters, developers, and collaborators can
 
 ## 🛠️ Tech Stack
 
-- **Framework:** React (with Vite/Next.js if applicable)  
+- **Framework:** React (vite)  
 - **Styling:** TailwindCSS  
 - **Language:** TypeScript  
 - **Deployment:** Vercel  
 - **Version Control:** Git & GitHub  
 
 ---
+
